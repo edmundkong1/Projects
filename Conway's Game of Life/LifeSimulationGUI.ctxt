@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeSimulationGUI()
+comment1.params=
+comment1.target=void\ updateCounter()
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ createAndShowOptionsGUI()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ run()
+numComments=7

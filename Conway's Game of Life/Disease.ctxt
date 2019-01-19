@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=damage\ contact\ spread\ recovery\ victims
+comment0.target=Disease(int,\ double,\ double,\ int,\ boolean[])
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=
+comment2.target=double\ getContact()
+comment3.params=
+comment3.target=double\ getSpread()
+comment4.params=
+comment4.target=int\ getRecovery()
+comment5.params=
+comment5.target=boolean[]\ getVictims()
+numComments=6

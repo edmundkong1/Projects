@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=type\ growth\ deplete\ limit
+comment0.target=Food(int,\ double,\ double,\ int)
+comment1.params=type\ growth\ deplete\ limit\ disease
+comment1.target=Food(int,\ double,\ double,\ int,\ Disease)
+comment2.params=
+comment2.target=int\ getType()
+comment3.params=
+comment3.target=int\ getNutrition()
+comment4.params=
+comment4.target=void\ loseEnergy()
+comment5.params=
+comment5.target=Disease\ getDisease()
+comment6.params=
+comment6.target=boolean\ isDiseased()
+comment7.params=
+comment7.target=void\ iterate()
+numComments=8

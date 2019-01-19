@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Options()
+comment1.params=column
+comment1.target=java.lang.Class\ getColumnClass(int)
+comment1.text=@Override\r\n\ \ \ \ \ \ \ \ \ \ \ \ public\ Class\ getColumnClass(int\ column)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ getValueAt(0,\ column).getClass();\r\n}
+comment2.params=column
+comment2.target=java.lang.Class\ getColumnClass(int)
+comment2.text=@Override\r\n\ \ \ \ \ \ \ \ \ \ \ \ public\ Class\ getColumnClass(int\ column)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ getValueAt(0,\ column).getClass();\r\n}
+comment3.params=row\ col
+comment3.target=int\ getAgentData(int,\ int)
+comment4.params=row\ col
+comment4.target=double\ getFoodData(int,\ int)
+numComments=5

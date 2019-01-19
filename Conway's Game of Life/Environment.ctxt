@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type\ lifespan
+comment0.target=Environment(int,\ int)
+comment1.params=
+comment1.target=int\ getType()
+comment2.params=
+comment2.target=void\ iterate()
+numComments=3
